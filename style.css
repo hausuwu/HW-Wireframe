@@ -35,7 +35,8 @@ body {
 .article {
     background: #777777;
     color: #ebebeb;
-    padding: 20px;
+    padding: 10px;
+    margin-top: 10px;
 }
 
 .box1 {
@@ -43,12 +44,14 @@ body {
     color: #777777;
     padding: 10px;
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .p {
     background: #ebebeb;
     color: #777777;
     padding: 10px;
+    margin-top: 10px;
 }
 
 .aside {
